@@ -1,0 +1,52 @@
+
+SQL*Loader: Release 12.1.0.1.0 - Production on Mon Dec 26 07:21:18 2022
+
+Copyright (c) 1982, 2013, Oracle and/or its affiliates.  All rights reserved.
+
+Control File:   DataForLoad.ctl
+Data File:      DataForLoad.txt
+  Bad File:     DataForLoad.bad
+  Discard File:  none specified
+ 
+ (Allow all discards)
+
+Number to load: ALL
+Number to skip: 0
+Errors allowed: 50
+Bind array:     64 rows, maximum of 256000 bytes
+Continuation:    none specified
+Path used:      Conventional
+
+Table WORKERS_HIRING, loaded from every logical record.
+Insert option in effect for this table: INSERT
+
+   Column Name                  Position   Len  Term Encl Datatype
+------------------------------ ---------- ----- ---- ---- ---------------------
+WORKERID                            FIRST     *   ;  O(") CHARACTER            
+WORKERNAME                           NEXT     *   ;  O(") CHARACTER            
+    SQL string for column : "upper(:workername)"
+HIRINGDATE                           NEXT     *   ;  O(") DATE DD-MM-YYYY      
+SALARY                               NEXT     *   ;  O(") CHARACTER            
+    SQL string for column : "round(:salary, 2)"
+
+
+Table WORKERS_HIRING:
+  22 Rows successfully loaded.
+  0 Rows not loaded due to data errors.
+  0 Rows not loaded because all WHEN clauses were failed.
+  0 Rows not loaded because all fields were null.
+
+
+Space allocated for bind array:                  66048 bytes(64 rows)
+Read   buffer bytes: 1048576
+
+Total logical records skipped:          0
+Total logical records read:            22
+Total logical records rejected:         0
+Total logical records discarded:        0
+
+Run began on Mon Dec 26 07:21:18 2022
+Run ended on Mon Dec 26 07:21:18 2022
+
+Elapsed time was:     00:00:00.12
+CPU time was:         00:00:00.00

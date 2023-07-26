@@ -1,0 +1,339 @@
+
+
+ LOG file opened at 12/21/22 06:15:19
+
+KUP-05004:   Warning: Intra source concurrency disabled because parallel select was not requested.
+
+Field Definitions for table EXT_WORKERS_HIRING
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    WORKERID                        CHAR (255)
+      Terminated by ";"
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    WORKERNAME                      CHAR (255)
+      Terminated by ";"
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    HIRINGDATE                      CHAR (255)
+      Date datatype DATE, date mask DD-MM-YYYY
+      Terminated by ";"
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    SALARY                          CHAR (255)
+      Terminated by ";"
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+
+Date Cache Statistics for table EXT_WORKERS_HIRING
+  Max Size:      1000
+  Entries :        20
+  Hits    :         2
+  Misses  :         0
+
+
+
+ LOG file opened at 12/21/22 06:15:31
+
+KUP-05004:   Warning: Intra source concurrency disabled because parallel select was not requested.
+
+Field Definitions for table EXT_WORKERS_HIRING
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    WORKERID                        CHAR (255)
+      Terminated by ";"
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    WORKERNAME                      CHAR (255)
+      Terminated by ";"
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    HIRINGDATE                      CHAR (255)
+      Date datatype DATE, date mask DD-MM-YYYY
+      Terminated by ";"
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    SALARY                          CHAR (255)
+      Terminated by ";"
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+
+Date Cache Statistics for table EXT_WORKERS_HIRING
+  Max Size:      1000
+  Entries :        20
+  Hits    :         2
+  Misses  :         0
+
+
+
+ LOG file opened at 12/21/22 06:15:38
+
+KUP-05004:   Warning: Intra source concurrency disabled because parallel select was not requested.
+
+Field Definitions for table EXT_WORKERS_HIRING
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    WORKERID                        CHAR (255)
+      Terminated by ";"
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    WORKERNAME                      CHAR (255)
+      Terminated by ";"
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    HIRINGDATE                      CHAR (255)
+      Date datatype DATE, date mask DD-MM-YYYY
+      Terminated by ";"
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    SALARY                          CHAR (255)
+      Terminated by ";"
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+
+  Column Transformations
+    ROWID                         
+
+Date Cache Statistics for table EXT_WORKERS_HIRING
+  Max Size:      1000
+  Entries :        20
+  Hits    :         2
+  Misses  :         0
+
+
+
+ LOG file opened at 12/21/22 06:15:39
+
+KUP-05004:   Warning: Intra source concurrency disabled because parallel select was not requested.
+
+Field Definitions for table EXT_WORKERS_HIRING
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    WORKERID                        CHAR (255)
+      Terminated by ";"
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    WORKERNAME                      CHAR (255)
+      Terminated by ";"
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    HIRINGDATE                      CHAR (255)
+      Date datatype DATE, date mask DD-MM-YYYY
+      Terminated by ";"
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    SALARY                          CHAR (255)
+      Terminated by ";"
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+
+  Column Transformations
+    ROWID                         
+
+Date Cache Statistics for table EXT_WORKERS_HIRING
+  Max Size:      1000
+  Entries :        20
+  Hits    :         2
+  Misses  :         0
+
+
+
+ LOG file opened at 12/21/22 06:16:01
+
+KUP-05004:   Warning: Intra source concurrency disabled because parallel select was not requested.
+
+Field Definitions for table EXT_WORKERS_HIRING
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    WORKERID                        CHAR (255)
+      Terminated by ";"
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    WORKERNAME                      CHAR (255)
+      Terminated by ";"
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    HIRINGDATE                      CHAR (255)
+      Date datatype DATE, date mask DD-MM-YYYY
+      Terminated by ";"
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    SALARY                          CHAR (255)
+      Terminated by ";"
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+
+Date Cache Statistics for table EXT_WORKERS_HIRING
+  Max Size:      1000
+  Entries :        20
+  Hits    :         2
+  Misses  :         0
+
+
+
+ LOG file opened at 12/21/22 06:16:56
+
+KUP-05004:   Warning: Intra source concurrency disabled because parallel select was not requested.
+
+Field Definitions for table EXT_WORKERS_HIRING
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    WORKERID                        CHAR (255)
+      Terminated by ";"
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    WORKERNAME                      CHAR (255)
+      Terminated by ";"
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    HIRINGDATE                      CHAR (255)
+      Date datatype DATE, date mask DD-MM-YYYY
+      Terminated by ";"
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    SALARY                          CHAR (255)
+      Terminated by ";"
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+
+Date Cache Statistics for table EXT_WORKERS_HIRING
+  Max Size:      1000
+  Entries :        20
+  Hits    :         2
+  Misses  :         0
+
+
+
+ LOG file opened at 12/21/22 06:17:03
+
+KUP-05004:   Warning: Intra source concurrency disabled because parallel select was not requested.
+
+Field Definitions for table EXT_WORKERS_HIRING
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    WORKERID                        CHAR (255)
+      Terminated by ";"
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    WORKERNAME                      CHAR (255)
+      Terminated by ";"
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    HIRINGDATE                      CHAR (255)
+      Date datatype DATE, date mask DD-MM-YYYY
+      Terminated by ";"
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    SALARY                          CHAR (255)
+      Terminated by ";"
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+
+Date Cache Statistics for table EXT_WORKERS_HIRING
+  Max Size:      1000
+  Entries :        20
+  Hits    :         2
+  Misses  :         0
+
+
+
+ LOG file opened at 12/21/22 06:17:16
+
+KUP-05004:   Warning: Intra source concurrency disabled because parallel select was not requested.
+
+Field Definitions for table EXT_WORKERS_HIRING
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    WORKERID                        CHAR (255)
+      Terminated by ";"
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    WORKERNAME                      CHAR (255)
+      Terminated by ";"
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    HIRINGDATE                      CHAR (255)
+      Date datatype DATE, date mask DD-MM-YYYY
+      Terminated by ";"
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    SALARY                          CHAR (255)
+      Terminated by ";"
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+
+Date Cache Statistics for table EXT_WORKERS_HIRING
+  Max Size:      1000
+  Entries :        20
+  Hits    :         2
+  Misses  :         0
+
+
+
+ LOG file opened at 12/21/22 06:17:21
+
+KUP-05004:   Warning: Intra source concurrency disabled because parallel select was not requested.
+
+Field Definitions for table EXT_WORKERS_HIRING
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    WORKERID                        CHAR (255)
+      Terminated by ";"
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    WORKERNAME                      CHAR (255)
+      Terminated by ";"
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    HIRINGDATE                      CHAR (255)
+      Date datatype DATE, date mask DD-MM-YYYY
+      Terminated by ";"
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+    SALARY                          CHAR (255)
+      Terminated by ";"
+      Enclosed by """ and """
+      Trim whitespace same as SQL Loader
+
+Date Cache Statistics for table EXT_WORKERS_HIRING
+  Max Size:      1000
+  Entries :        20
+  Hits    :         2
+  Misses  :         0
+

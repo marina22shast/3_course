@@ -1,0 +1,21 @@
+1; Gvinok Marina; 10-12-2022; 577.957
+2; Mohov Egor; 08-12-2022; 800.00
+3; Daria Kristhal; 19-10-2018; 500.999
+4; Suvalov Alexey; 20-12-2022; 500.3532
+5; Simonenko Elizaveta; 01-12-2022; 456.00
+6; Perova Pavla; 20-11-2022; 678.999
+7; Savenko Evgenia; 10-08-2022; 500.00
+8; Zuravlev Andrey; 15-09-2022; 441.01
+9; Zuk Ivan; 09-09-2022; 100.063
+10; Ermuzevich Dmitry; 01-12-2022; 600.0483
+11; Maxim Tarasenko; 20-12-2022; 356.88
+12; Matranchuk Kirill; 15-10-2022; 455.00
+13; Katerina Trofimova; 19-10-2022; 700.00
+14; Shastovskaya Marina; 12-09-2021; 896.584
+15; Gur Tatiana; 01-12-2021; 456.983
+16; Shitko Darina; 07-08-2018; 355.00
+17; Kravetz Ivan; 14-03-2019; 566.00
+18; Bogdan Marina; 19-10-2019; 478.88
+19; Bondarenko Evgenia; 25-11-2022; 907.843
+20; Kohova Daria; 05-12-2021; 783.999
+

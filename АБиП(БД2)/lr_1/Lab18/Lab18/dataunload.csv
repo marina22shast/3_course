@@ -1,0 +1,13 @@
+SQL> @D:\DARIA\3course_sem1\database\Lab18\Unload_Data;
+ 19  /
+workerid,workername,hiringdate,salary                                           
+4,SUVALOV ALEXEY,20-DEC-22,500.35                                               
+5,SIMONENKO ELIZAVETA,01-DEC-22,456                                             
+10,ERMUZEVICH DMITRY,01-DEC-22,600.05                                           
+11,MAXIM TARASENKO,20-DEC-22,356.88                                             
+21,MOHOV EGOR,08-DEC-22,800                                                     
+22,GVINOK MARINA,10-DEC-22,577.96                                               
+
+PL/SQL procedure successfully completed.
+
+SQL> spool off;

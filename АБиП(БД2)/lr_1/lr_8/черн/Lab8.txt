@@ -1,0 +1,11 @@
+--2
+show parameter instance;
+
+--3
+select * from v$tablespace;
+select * from sys.dba_data_files;
+select * from dba_role_privs;
+select * from all_users;
+
+--7
+set timing on;
