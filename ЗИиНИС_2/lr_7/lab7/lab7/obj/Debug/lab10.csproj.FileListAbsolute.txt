@@ -1,0 +1,10 @@
+C:\Локальный диск\Крипта\Лаба10\lab10\lab10\bin\Debug\lab10.exe.config
+C:\Локальный диск\Крипта\Лаба10\lab10\lab10\bin\Debug\lab10.exe
+C:\Локальный диск\Крипта\Лаба10\lab10\lab10\bin\Debug\lab10.pdb
+C:\Локальный диск\Крипта\Лаба10\lab10\lab10\bin\Debug\BigMath.dll
+C:\Локальный диск\Крипта\Лаба10\lab10\lab10\bin\Debug\BigMath.xml
+C:\Локальный диск\Крипта\Лаба10\lab10\lab10\obj\Debug\lab10.csproj.AssemblyReference.cache
+C:\Локальный диск\Крипта\Лаба10\lab10\lab10\obj\Debug\lab10.csproj.CoreCompileInputs.cache
+C:\Локальный диск\Крипта\Лаба10\lab10\lab10\obj\Debug\lab10.csproj.CopyComplete
+C:\Локальный диск\Крипта\Лаба10\lab10\lab10\obj\Debug\lab10.exe
+C:\Локальный диск\Крипта\Лаба10\lab10\lab10\obj\Debug\lab10.pdb
