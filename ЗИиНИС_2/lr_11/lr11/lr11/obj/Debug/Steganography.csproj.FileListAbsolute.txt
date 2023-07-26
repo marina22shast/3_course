@@ -1,0 +1,73 @@
+c:\users\sajjad\documents\visual studio 2013\Projects\Steganography\Steganography\bin\Debug\Steganography.exe.config
+c:\users\sajjad\documents\visual studio 2013\Projects\Steganography\Steganography\bin\Debug\Steganography.exe
+c:\users\sajjad\documents\visual studio 2013\Projects\Steganography\Steganography\bin\Debug\Steganography.pdb
+c:\users\sajjad\documents\visual studio 2013\Projects\Steganography\Steganography\obj\Debug\Steganography.csprojResolveAssemblyReference.cache
+c:\users\sajjad\documents\visual studio 2013\Projects\Steganography\Steganography\obj\Debug\Steganography.frmMain.resources
+c:\users\sajjad\documents\visual studio 2013\Projects\Steganography\Steganography\obj\Debug\Steganography.frmStart.resources
+c:\users\sajjad\documents\visual studio 2013\Projects\Steganography\Steganography\obj\Debug\Steganography.Properties.Resources.resources
+c:\users\sajjad\documents\visual studio 2013\Projects\Steganography\Steganography\obj\Debug\Steganography.csproj.GenerateResource.Cache
+c:\users\sajjad\documents\visual studio 2013\Projects\Steganography\Steganography\obj\Debug\Steganography.exe
+c:\users\sajjad\documents\visual studio 2013\Projects\Steganography\Steganography\obj\Debug\Steganography.pdb
+C:\Users\SAJJAD\Documents\Visual Studio 2013\Projects\Steganography\Steganography\obj\Debug\Steganography.frmAbout.resources
+E:\Programming\C#\Project\Steganography\Steganography\bin\Debug\Steganography.exe.config
+E:\Programming\C#\Project\Steganography\Steganography\obj\Debug\Steganography.exe
+E:\Programming\C#\Project\Steganography\Steganography\obj\Debug\Steganography.pdb
+E:\Computer science\C#\Project\Steganography\Steganography\bin\Debug\Steganography.exe.config
+E:\Computer science\C#\Project\Steganography\Steganography\obj\Debug\Steganography.exe
+E:\Computer science\C#\Project\Steganography\Steganography\obj\Debug\Steganography.pdb
+E:\Computer science\C#\Project\Steganography\Steganography\bin\Debug\Steganography.exe
+E:\Computer science\C#\Project\Steganography\Steganography\bin\Debug\Steganography.pdb
+E:\Computer science\C#\Project\Steganography\Steganography\obj\Debug\Steganography.csprojResolveAssemblyReference.cache
+E:\Computer science\C#\Project\Steganography\Steganography\obj\Debug\Steganography.frmAbout.resources
+E:\Computer science\C#\Project\Steganography\Steganography\obj\Debug\Steganography.frmMain.resources
+E:\Computer science\C#\Project\Steganography\Steganography\obj\Debug\Steganography.frmStart.resources
+E:\Computer science\C#\Project\Steganography\Steganography\obj\Debug\Steganography.Properties.Resources.resources
+E:\Computer science\C#\Project\Steganography\Steganography\obj\Debug\Steganography.csproj.GenerateResource.Cache
+E:\Computer science\C#\Projects\Steganography\Steganography\bin\Debug\Steganography.exe.config
+E:\Computer science\C#\Projects\Steganography\Steganography\obj\Debug\Steganography.exe
+E:\Computer science\C#\Projects\Steganography\Steganography\obj\Debug\Steganography.pdb
+E:\Computer science\C#\Projects\Steganography\Steganography\bin\Debug\Steganography.exe
+E:\Computer science\C#\Projects\Steganography\Steganography\bin\Debug\Steganography.pdb
+E:\Computer science\C#\Projects\Steganography\Steganography\obj\Debug\Steganography.csprojResolveAssemblyReference.cache
+E:\Computer science\C#\Projects\Steganography\Steganography\obj\Debug\Steganography.frmAbout.resources
+E:\Computer science\C#\Projects\Steganography\Steganography\obj\Debug\Steganography.frmMain.resources
+E:\Computer science\C#\Projects\Steganography\Steganography\obj\Debug\Steganography.frmStart.resources
+E:\Computer science\C#\Projects\Steganography\Steganography\obj\Debug\Steganography.Properties.Resources.resources
+E:\Computer science\C#\Projects\Steganography\Steganography\obj\Debug\Steganography.csproj.GenerateResource.Cache
+D:\University\3 course\2 sem\Защитка\lab12\Steganography-master\Steganography\bin\Debug\Steganography.exe.config
+D:\University\3 course\2 sem\Защитка\lab12\Steganography-master\Steganography\bin\Debug\Steganography.exe
+D:\University\3 course\2 sem\Защитка\lab12\Steganography-master\Steganography\bin\Debug\Steganography.pdb
+D:\University\3 course\2 sem\Защитка\lab12\Steganography-master\Steganography\obj\Debug\Steganography.csprojAssemblyReference.cache
+D:\University\3 course\2 sem\Защитка\lab12\Steganography-master\Steganography\obj\Debug\Steganography.frmAbout.resources
+D:\University\3 course\2 sem\Защитка\lab12\Steganography-master\Steganography\obj\Debug\Steganography.frmMain.resources
+D:\University\3 course\2 sem\Защитка\lab12\Steganography-master\Steganography\obj\Debug\Steganography.frmStart.resources
+D:\University\3 course\2 sem\Защитка\lab12\Steganography-master\Steganography\obj\Debug\Steganography.Properties.Resources.resources
+D:\University\3 course\2 sem\Защитка\lab12\Steganography-master\Steganography\obj\Debug\Steganography.csproj.GenerateResource.cache
+D:\University\3 course\2 sem\Защитка\lab12\Steganography-master\Steganography\obj\Debug\Steganography.csproj.CoreCompileInputs.cache
+D:\University\3 course\2 sem\Защитка\lab12\Steganography-master\Steganography\obj\Debug\Steganography.exe
+D:\University\3 course\2 sem\Защитка\lab12\Steganography-master\Steganography\obj\Debug\Steganography.pdb
+C:\Локальный диск\Крипта\Лаба14\Steganography-master\Steganography\bin\Debug\Steganography.exe.config
+C:\Локальный диск\Крипта\Лаба14\Steganography-master\Steganography\bin\Debug\Steganography.exe
+C:\Локальный диск\Крипта\Лаба14\Steganography-master\Steganography\bin\Debug\Steganography.pdb
+C:\Локальный диск\Крипта\Лаба14\Steganography-master\Steganography\obj\Debug\Steganography.csproj.AssemblyReference.cache
+C:\Локальный диск\Крипта\Лаба14\Steganography-master\Steganography\obj\Debug\Steganography.frmAbout.resources
+C:\Локальный диск\Крипта\Лаба14\Steganography-master\Steganography\obj\Debug\Steganography.frmMain.resources
+C:\Локальный диск\Крипта\Лаба14\Steganography-master\Steganography\obj\Debug\Steganography.frmStart.resources
+C:\Локальный диск\Крипта\Лаба14\Steganography-master\Steganography\obj\Debug\Steganography.Properties.Resources.resources
+C:\Локальный диск\Крипта\Лаба14\Steganography-master\Steganography\obj\Debug\Steganography.csproj.GenerateResource.cache
+C:\Локальный диск\Крипта\Лаба14\Steganography-master\Steganography\obj\Debug\Steganography.csproj.CoreCompileInputs.cache
+C:\Локальный диск\Крипта\Лаба14\Steganography-master\Steganography\obj\Debug\Steganography.exe
+C:\Локальный диск\Крипта\Лаба14\Steganography-master\Steganography\obj\Debug\Steganography.pdb
+D:\3kr_6sem\ЗИиНИС\Крипта\Лаба14\Steganography-master\Steganography\bin\Debug\Steganography.exe.config
+D:\3kr_6sem\ЗИиНИС\Крипта\Лаба14\Steganography-master\Steganography\bin\Debug\Steganography.exe
+D:\3kr_6sem\ЗИиНИС\Крипта\Лаба14\Steganography-master\Steganography\bin\Debug\Steganography.pdb
+D:\3kr_6sem\ЗИиНИС\Крипта\Лаба14\Steganography-master\Steganography\obj\Debug\Steganography.csproj.AssemblyReference.cache
+D:\3kr_6sem\ЗИиНИС\Крипта\Лаба14\Steganography-master\Steganography\obj\Debug\Steganography.csproj.SuggestedBindingRedirects.cache
+D:\3kr_6sem\ЗИиНИС\Крипта\Лаба14\Steganography-master\Steganography\obj\Debug\Steganography.frmAbout.resources
+D:\3kr_6sem\ЗИиНИС\Крипта\Лаба14\Steganography-master\Steganography\obj\Debug\Steganography.frmMain.resources
+D:\3kr_6sem\ЗИиНИС\Крипта\Лаба14\Steganography-master\Steganography\obj\Debug\Steganography.frmStart.resources
+D:\3kr_6sem\ЗИиНИС\Крипта\Лаба14\Steganography-master\Steganography\obj\Debug\Steganography.Properties.Resources.resources
+D:\3kr_6sem\ЗИиНИС\Крипта\Лаба14\Steganography-master\Steganography\obj\Debug\Steganography.csproj.GenerateResource.cache
+D:\3kr_6sem\ЗИиНИС\Крипта\Лаба14\Steganography-master\Steganography\obj\Debug\Steganography.csproj.CoreCompileInputs.cache
+D:\3kr_6sem\ЗИиНИС\Крипта\Лаба14\Steganography-master\Steganography\obj\Debug\Steganography.exe
+D:\3kr_6sem\ЗИиНИС\Крипта\Лаба14\Steganography-master\Steganography\obj\Debug\Steganography.pdb
