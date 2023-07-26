@@ -1,0 +1,15 @@
+C:\Локальный диск\Крипта\Лаба8\Lab8\Lab8\bin\Debug\Lab8.exe.config
+C:\Локальный диск\Крипта\Лаба8\Lab8\Lab8\bin\Debug\Lab8.exe
+C:\Локальный диск\Крипта\Лаба8\Lab8\Lab8\bin\Debug\Lab8.pdb
+C:\Локальный диск\Крипта\Лаба8\Lab8\Lab8\obj\Debug\Lab8.csproj.AssemblyReference.cache
+C:\Локальный диск\Крипта\Лаба8\Lab8\Lab8\obj\Debug\Lab8.csproj.CoreCompileInputs.cache
+C:\Локальный диск\Крипта\Лаба8\Lab8\Lab8\obj\Debug\Lab8.exe
+C:\Локальный диск\Крипта\Лаба8\Lab8\Lab8\obj\Debug\Lab8.pdb
+D:\3kr_6sem\ЗИиНИС\Крипта\Лаба8\Lab8\Lab8\bin\Debug\Lab8.exe.config
+D:\3kr_6sem\ЗИиНИС\Крипта\Лаба8\Lab8\Lab8\bin\Debug\Lab8.exe
+D:\3kr_6sem\ЗИиНИС\Крипта\Лаба8\Lab8\Lab8\bin\Debug\Lab8.pdb
+D:\3kr_6sem\ЗИиНИС\Крипта\Лаба8\Lab8\Lab8\obj\Debug\Lab8.csproj.AssemblyReference.cache
+D:\3kr_6sem\ЗИиНИС\Крипта\Лаба8\Lab8\Lab8\obj\Debug\Lab8.csproj.SuggestedBindingRedirects.cache
+D:\3kr_6sem\ЗИиНИС\Крипта\Лаба8\Lab8\Lab8\obj\Debug\Lab8.csproj.CoreCompileInputs.cache
+D:\3kr_6sem\ЗИиНИС\Крипта\Лаба8\Lab8\Lab8\obj\Debug\Lab8.exe
+D:\3kr_6sem\ЗИиНИС\Крипта\Лаба8\Lab8\Lab8\obj\Debug\Lab8.pdb

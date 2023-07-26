@@ -1,0 +1,15 @@
+C:\Локальный диск\Крипта\Лаба4\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Локальный диск\Крипта\Лаба4\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Локальный диск\Крипта\Лаба4\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Локальный диск\Крипта\Лаба4\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Локальный диск\Крипта\Лаба4\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Локальный диск\Крипта\Лаба4\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Локальный диск\Крипта\Лаба4\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\3kr_6sem\ЗИиНИС\Крипта\Лаба4\лр1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\3kr_6sem\ЗИиНИС\Крипта\Лаба4\лр1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\3kr_6sem\ЗИиНИС\Крипта\Лаба4\лр1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\3kr_6sem\ЗИиНИС\Крипта\Лаба4\лр1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\3kr_6sem\ЗИиНИС\Крипта\Лаба4\лр1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+D:\3kr_6sem\ЗИиНИС\Крипта\Лаба4\лр1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\3kr_6sem\ЗИиНИС\Крипта\Лаба4\лр1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\3kr_6sem\ЗИиНИС\Крипта\Лаба4\лр1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
